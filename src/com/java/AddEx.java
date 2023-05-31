@@ -11,7 +11,11 @@ public class AddEx {
 		
 		int mul = a * b ;
 		
+		
+		int sub  = a - b ;
+		
 		System.out.println(mul);
+		System.out.println(sub);
 		System.out.println(result);
 
 	}
